@@ -17,4 +17,4 @@ Documents for all our services can be found at https://docs.smartx.ng.
 
 
 
-We eat Java-Typed-Scripts for breakfast
+We eat Blocks of chains for dinner
